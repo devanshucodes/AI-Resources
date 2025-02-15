@@ -12,29 +12,27 @@ This repo is designed for **builders, innovators, and AI enthusiasts** looking t
 AI-Resources/
 │── README.md  # Overview of the repo
 │
-├── getting-started/  # New to AI? Start here!
-│   ├── README.md  # Overview of AI 
-│   ├── learning-path.md  # Beginner-to-advanced roadmap
-│
-├── ai-agents/  # Building AI Agents (On-Chain & Off-Chain)
-│   ├── README.md  # What are AI Agents?
-│   ├── autonomous-agents.md  # How autonomous AI agents work
-│   ├── onchain-ai-agents.md  # AI Agents on the blockchain
-│
-├── resources/  # AI & Web3 resources
-│   ├── README.md  # Overview of AI & Web3 resources
-│   
-│── podcasts/
-│   ├── README.md  # Top AI & Web3 podcasts
-
-├── tools/
-│   ├── README.md  # Best AI & Web3 tools
-│ 
-│── blogs/
+├── blogs/ 
 │   ├── README.md  # AI & Web3 blogs
 │
-└── research/  # AI & Web3 research papers
-    └── README.md  
+├── getting-started/  # New to AI? Start here!
+│   ├── README.md  # Overview of AI 
+│
+├── how to build ai agents/  #step-by-step guide
+│   ├── Step 1: Defining the Agent's Functionality.md
+│   ├── Step 2: Choosing the Framework.md
+│   ├── Step 3: Selecting the LLM Model.md
+│   ├── Step 4: Integrating External APIs and Tools.md
+│   ├── Step 5: Setting Up the Development Environment.md
+│   ├── Step 6: Deploying your AI Agent.md
+│
+├── podcasts/
+│   ├── README.md  # Top AI & Web3 podcasts
+│
+└── resources/  # AI & Web3 resources
+    └── README.md  # Overview of AI & Web3 resources
+
+
 
 
 ---
