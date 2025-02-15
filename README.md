@@ -31,7 +31,7 @@ AI-Resources/
 │
 └── resources/  # AI & Web3 resources
     └── README.md  # Overview of AI & Web3 resources
-
+```
 ---
 
 ## 🤖 Build Your Own On-Chain AI Agents!  
