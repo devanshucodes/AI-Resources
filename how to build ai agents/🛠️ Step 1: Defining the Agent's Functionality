@@ -1,0 +1,24 @@
+# 🛠️ Step 1: Defining the Agent's Functionality  
+
+## Understanding the Agent's Purpose  
+
+### Identify the Use Case:  
+- Clearly define the problem the agent will solve or the task it will perform.  
+- Examples include customer support, content generation, data analysis, etc.  
+
+### Specify Goals and Tasks:  
+- Break down the primary goal into smaller, actionable tasks.  
+- Define clear objectives and expected outcomes for each task.  
+
+### Determine Inputs and Outputs:  
+- Identify the inputs the agent will need to perform its tasks.  
+- Define the expected outputs or responses from the agent.  
+
+## Determine Core Capabilities  
+- **Information retrieval** (e.g. Wikipedia search)  
+- **Data analysis** (e.g. calculations)  
+- **Domain-specific tasks** (e.g. blog search)  
+
+## Design Action Format  
+```plaintext
+Action: <action_name>: <action_input>
