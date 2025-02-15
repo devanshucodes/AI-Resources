@@ -34,8 +34,8 @@ AI-Resources/
 │   ├── README.md  # AI & Web3 blogs
 │
 └── research/  # AI & Web3 research papers
-    ├── README.md  
-    ├── latest-papers.md  # Latest AI research papers
+    └── README.md  
+
 
 ---
 
